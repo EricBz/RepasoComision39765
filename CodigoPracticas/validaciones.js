@@ -1,4 +1,5 @@
 //- Array productos donde cargaremos cada producto (cada producto será un objeto.)
+//¿Cómo validamos que todos los campos estén completos?, Algunas formas más sencillas.
 const productos = []
 // 1 - Mando cada variable, cada variable pasará por el if para validar que esté completo.
 const addProducts = (param1, param2, param3) => {
